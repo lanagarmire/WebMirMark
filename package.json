@@ -1,0 +1,23 @@
+{
+  "name": "WebMirMark",
+  "version": "1.0.0",
+  "description": "The web interface for MirMark, a microRNA target prediction algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanagarmire/WebMirMark"
+  },
+  "keywords": [
+    "mirmark",
+    "bioinformatics"
+  ],
+  "author": "Xun Zhu",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/lanagarmire/WebMirMark/issues"
+  },
+  "homepage": "https://github.com/lanagarmire/WebMirMark"
+}
